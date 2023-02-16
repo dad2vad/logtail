@@ -14,6 +14,7 @@ All that for less than any Elastic stack alternative thanks to our custom-built 
 
 This example repository demonstrates how you can use structured logging with Logtail in your Next.js app both in the frontend app and in your API functions.
 
+
 Set your Logtail.com source token to the `NEXT_PUBLIC_LOGTAIL_SOURCE_TOKEN` environment variable and once you open your app, you'll see your logs in [Logtail](https://logtail.com/team/0/tail).
 
 Our [Vercel integration](https://vercel.com/integrations/logtail) will do all the work for you and it will sync your Vercel projects with your Logtail sources.
